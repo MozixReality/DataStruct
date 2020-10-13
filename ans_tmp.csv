@@ -1,0 +1,171 @@
+Sort,case,k,time(ms)
+Insertion Sort,case 1,10,23.41134
+Insertion Sort,case 2,10,2.82988
+Merge Sort,case 1,10,1.97171
+Merge Sort,case 2,10,1.87746
+Randomized Quick Sort,case 1,10,1.67058
+Randomized Quick Sort,case 2,10,1.618
+Counting Sort,case 1,10,0.31403
+Counting Sort,case 2,10,0.31264
+Tim Sort,case 1,10,0.06655
+Tim Sort,case 2,10,0.02867
+Insertion Sort,case 1,11,95.11883
+Insertion Sort,case 2,11,6.26291
+Merge Sort,case 1,11,4.3317
+Merge Sort,case 2,11,3.89177
+Randomized Quick Sort,case 1,11,3.59726
+Randomized Quick Sort,case 2,11,3.20971
+Counting Sort,case 1,11,0.39902
+Counting Sort,case 2,11,0.36208
+Tim Sort,case 1,11,0.14428
+Tim Sort,case 2,11,0.03649
+Insertion Sort,case 1,12,380.34111
+Insertion Sort,case 2,12,15.17357
+Merge Sort,case 1,12,9.43177
+Merge Sort,case 2,12,8.13277
+Randomized Quick Sort,case 1,12,8.15898
+Randomized Quick Sort,case 2,12,6.95054
+Counting Sort,case 1,12,0.56747
+Counting Sort,case 2,12,0.46895
+Tim Sort,case 1,12,0.31317
+Tim Sort,case 2,12,0.04635
+Insertion Sort,case 1,13,1536.48713
+Insertion Sort,case 2,13,32.26181
+Merge Sort,case 1,13,20.14415
+Merge Sort,case 2,13,17.3902
+Randomized Quick Sort,case 1,13,19.41195
+Randomized Quick Sort,case 2,13,15.18186
+Counting Sort,case 1,13,0.88608
+Counting Sort,case 2,13,0.68291
+Tim Sort,case 1,13,0.66674
+Tim Sort,case 2,13,0.06297
+Insertion Sort,case 1,14,6186.95618
+Insertion Sort,case 2,14,70.88709
+Merge Sort,case 1,14,43.2239
+Merge Sort,case 2,14,36.84417
+Randomized Quick Sort,case 1,14,46.07762
+Randomized Quick Sort,case 2,14,31.2857
+Counting Sort,case 1,14,1.54061
+Counting Sort,case 2,14,1.10035
+Tim Sort,case 1,14,1.41779
+Tim Sort,case 2,14,0.09681
+Insertion Sort,case 1,15,24981.10697
+Insertion Sort,case 2,15,149.75003
+Merge Sort,case 1,15,92.16961
+Merge Sort,case 2,15,79.4535
+Randomized Quick Sort,case 1,15,122.10695
+Randomized Quick Sort,case 2,15,65.03797
+Counting Sort,case 1,15,2.96622
+Counting Sort,case 2,15,1.93724
+Tim Sort,case 1,15,2.95224
+Tim Sort,case 2,15,0.16175
+Insertion Sort,case 1,16,100654.53207
+Insertion Sort,case 2,16,309.77889
+Merge Sort,case 1,16,197.62904
+Merge Sort,case 2,16,165.49987
+Randomized Quick Sort,case 1,16,355.01154
+Randomized Quick Sort,case 2,16,140.27661
+Counting Sort,case 1,16,5.50736
+Counting Sort,case 2,16,3.59087
+Tim Sort,case 1,16,6.04708
+Tim Sort,case 2,16,0.29895
+Insertion Sort,case 1,17,404897.85163
+Insertion Sort,case 2,17,660.63704
+Merge Sort,case 1,17,416.00138
+Merge Sort,case 2,17,350.45308
+Randomized Quick Sort,case 1,17,1165.70317
+Randomized Quick Sort,case 2,17,290.9579
+Counting Sort,case 1,17,10.64096
+Counting Sort,case 2,17,7.26615
+Tim Sort,case 1,17,12.30567
+Tim Sort,case 2,17,0.56754
+Insertion Sort,case 1,18,1632588.18614
+Insertion Sort,case 2,18,1257.13581
+Merge Sort,case 1,18,874.28527
+Merge Sort,case 2,18,739.61533
+Randomized Quick Sort,case 1,18,4071.51767
+Randomized Quick Sort,case 2,18,618.3558
+Counting Sort,case 1,18,22.13431
+Counting Sort,case 2,18,14.37485
+Tim Sort,case 1,18,25.75911
+Tim Sort,case 2,18,2.63283
+Insertion Sort,case 1,19,Over Time
+Insertion Sort,case 2,19,6240.62308
+Merge Sort,case 1,19,1925.27384
+Merge Sort,case 2,19,1673.29183
+Randomized Quick Sort,case 1,19,35439.45868
+Randomized Quick Sort,case 2,19,2976.52898
+Counting Sort,case 1,19,186.92815
+Counting Sort,case 2,19,94.60927
+Tim Sort,case 1,19,54.02256
+Tim Sort,case 2,19,6.17979
+Insertion Sort,case 1,20,Over Time
+Insertion Sort,case 2,20,12659.90378
+Merge Sort,case 1,20,4088.44127
+Merge Sort,case 2,20,3488.85589
+Randomized Quick Sort,case 1,20,Over Time
+Randomized Quick Sort,case 2,20,Over Time
+Counting Sort,case 1,20,380.39964
+Counting Sort,case 2,20,190.41792
+Tim Sort,case 1,20,109.09212
+Tim Sort,case 2,20,12.25655
+Insertion Sort,case 1,21,Over Time
+Insertion Sort,case 2,21,25473.28764
+Merge Sort,case 1,21,8666.03724
+Merge Sort,case 2,21,7305.88346
+Randomized Quick Sort,case 1,21,Over Time
+Randomized Quick Sort,case 2,21,Over Time
+Counting Sort,case 1,21,766.31915
+Counting Sort,case 2,21,381.28088
+Tim Sort,case 1,21,217.18174
+Tim Sort,case 2,21,20.24465
+Insertion Sort,case 1,22,Over Time
+Insertion Sort,case 2,22,52084.56964
+Merge Sort,case 1,22,18315.90623
+Merge Sort,case 2,22,15193.36363
+Randomized Quick Sort,case 1,22,Over Time
+Randomized Quick Sort,case 2,22,Over Time
+Counting Sort,case 1,22,1516.90733
+Counting Sort,case 2,22,766.30547
+Tim Sort,case 1,22,433.05504
+Tim Sort,case 2,22,35.29544
+Insertion Sort,case 1,23,Over Time
+Insertion Sort,case 2,23,100621.44775
+Merge Sort,case 1,23,38663.64646
+Merge Sort,case 2,23,31496.80472
+Randomized Quick Sort,case 1,23,Over Time
+Randomized Quick Sort,case 2,23,Over Time
+Counting Sort,case 1,23,3027.69683
+Counting Sort,case 2,23,1529.17691
+Tim Sort,case 1,23,868.34794
+Tim Sort,case 2,23,63.64547
+Insertion Sort,case 1,24,Over Time
+Insertion Sort,case 2,24,203004.37202
+Merge Sort,case 1,24,81397.14576
+Merge Sort,case 2,24,65218.44729
+Randomized Quick Sort,case 1,24,Over Time
+Randomized Quick Sort,case 2,24,Over Time
+Counting Sort,case 1,24,6022.77913
+Counting Sort,case 2,24,3099.43624
+Tim Sort,case 1,24,1761.78187
+Tim Sort,case 2,24,119.41074
+Insertion Sort,case 1,25,Over Time
+Insertion Sort,case 2,25,391056.0069
+Merge Sort,case 1,25,170620.63685
+Merge Sort,case 2,25,135140.59843
+Randomized Quick Sort,case 1,25,Over Time
+Randomized Quick Sort,case 2,25,Over Time
+Counting Sort,case 1,25,11999.44942
+Counting Sort,case 2,25,6092.62681
+Tim Sort,case 1,25,3574.89725
+Tim Sort,case 2,25,236.19481
+Insertion Sort,case 1,26,Over Time
+Insertion Sort,case 2,26,813013.15276
+Merge Sort,case 1,26,358134.10733
+Merge Sort,case 2,26,279295.19169
+Randomized Quick Sort,case 1,26,Over Time
+Randomized Quick Sort,case 2,26,Over Time
+Counting Sort,case 1,26,23958.49476
+Counting Sort,case 2,26,12215.4156
+Tim Sort,case 1,26,7247.49174
+Tim Sort,case 2,26,464.37861
