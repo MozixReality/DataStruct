@@ -37,28 +37,28 @@ int main(void){
                 break;
             }   
         }
-        double bst_insert = time_amoung(end_insert, start_insert);   
+        double hashtable_insert = time_amoung(end_insert, start_insert);   
         start_query = clock();
         for(int i=0;i<Max_Q;i++){
-            bst.find(newNum(rand()));
+            hashtable.find(newNum(rand()));
             end_query = clock();
             if(end_query - start_query > 60*60*CLOCKS_PER_SEC){
                 end_query = -1;
                 break;
             }
         }
-        double bst_query = time_amoung(end_query, start_query);   
-        ofstream ans_bst;
-        ans_bst.open("hashtable.csv", ios::app);
+        double hashtable_query = time_amoung(end_query, start_query);   
+        ofstream ans_hashtable;
+        ans_hashtable.open("hashtable.csv", ios::app);
         // k insert query
-        if(bst_insert == -1 && bst_query == -1)
-            ans_bst << k << ",over time,over time\n";
-        else if(bst_insert == -1)
-            ans_bst << k << ",over time," << bst_query << endl; 
-        else if(bst_query == -1)
-            ans_bst << k << "," << bst_insert << ",over time\n";
+        if(hashtable_insert == -1 && hashtable_query == -1)
+            ans_hashtable << k << ",over time,over time\n";
+        else if(hashtable_insert == -1)
+            ans_hashtable << k << ",over time," << hashtable_query << endl; 
+        else if(hashtable_query == -1)
+            ans_hashtable << k << "," << hashtable_insert << ",over time\n";
         else 
-            ans_bst << k << "," << bst_insert << "," << bst_query << endl;
-        ans_bst.close();
+            ans_hashtable << k << "," << hashtable_insert << "," << hashtable_query << endl;
+        ans_hashtable.close();
     }
 }
