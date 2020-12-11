@@ -31,12 +31,12 @@ double time_amoung(clock_t end, clock_t start){
 }
 
 int main(void){
-    for(int k=29;k<=Max_K;k++){
+    for(int k=10;k<=Max_K;k++){
         int seed = time(NULL);
         int n = pow(2, k);
         clock_t start_insert, end_insert, start_query, end_query;
         // sorted array
-        /*arr.clear();
+        arr.clear();
         arr.push_back(0);
         srand(seed);
         start_insert = clock();
@@ -70,9 +70,9 @@ int main(void){
             ans_arr << k << "," << arr_insert << ",over time\n";
         else 
             ans_arr << k << "," << arr_insert << "," << arr_query << endl;
-        ans_arr.close();*/
+        ans_arr.close();
         // BST
-        /*bst.clear();
+        bst.clear();
         srand(seed);
         start_insert = clock();
         for(int i=0;i<n;i++){
@@ -105,7 +105,7 @@ int main(void){
             ans_bst << k << "," << bst_insert << ",over time\n";
         else 
             ans_bst << k << "," << bst_insert << "," << bst_query << endl;
-        ans_bst.close();*/
+        ans_bst.close();
         // Btree
         // 建樹
         KeyType array[] = {}; 
